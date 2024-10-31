@@ -29,4 +29,5 @@ Thumbs.db
 .sass-cache
 public
 # Folders to ignore
+resources/_gen
 node_modules
